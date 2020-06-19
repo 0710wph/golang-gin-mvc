@@ -7,8 +7,6 @@ import (
 	"strings"
 )
 //数据库配置
-
-
 const (
 	userName = "root"
 	password = "123456"
